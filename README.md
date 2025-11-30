@@ -5,8 +5,11 @@
 ## 技术栈
 
 - Vue3
+- Vue-Router
 - TypeScript
+- pinia
 - Element-Plus
+- nprogress
 
 ## 运行
 
